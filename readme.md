@@ -1,11 +1,10 @@
+## ⚠️ NOTE: This project has been deprecated in favour of [Plumeria](https://github.com/zss-in-js/plumeria/tree/main). Please take a look at [the migration guide](https://github.com/zss-in-js/plumeria/blob/main/docs/typedcssx-migration-guide.md).
+
+---
+
 <div align="center">
-<a href="https://typedcssx.vercel.app">
-  <img alt="visit typedcssx website" src="https://typedcssx.vercel.app/banner.png">
-</a>
-<p />
 
 [![Release Status](https://img.shields.io/github/release/typedcsslab/typedcssx.svg?color=64C8C8)](https://github.com/typedcsslab/typedcssx/releases/latest)
-[![Minzip Size](https://img.shields.io/bundlephobia/minzip/typedcssx?color=64C8C8)](https://bundlephobia.com/package/typedcssx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?color=64C8C8)](https://opensource.org/licenses/MIT)
 
 </div>
